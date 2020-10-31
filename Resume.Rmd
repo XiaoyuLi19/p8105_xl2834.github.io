@@ -1,0 +1,93 @@
+---
+title: "My Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### Li, Xiaoyu
+
+
+(347)735-1906 | xl2834@columbia.edu | New York, US
+
+***
+ 
+**EDUCATION BACKGROUND**
+
+
+*Columbia University Mailman School of Public Health, New York, NY, US (Expected 05/2020)*
+
+* Master of Public Health (MPH), Biostatistics, GPA: 3.97
+* Relevant courses: Data Science; Statistical Computing with SAS; Relational Databases and SQL Programming; Analysis of Categorical Data; Applied Regression; Introduction to Mathematical Statistics
+
+*University of Liverpool, UK (Received 07/2018)*
+
+* Bachelor of Science (First Class Honours), Genetics, GPA: 3.8 
+* Relevant courses: Essential Skills for Life Sciences (utilization of SPSS); Introduction to Statistics
+
+ 
+**EXPERIENCES**
+
+
+*Technical and Data Analysis Intern with PHIA Project, ICAP at Columbia University, US (06/2020-09/2020)*
+
+* Conducted analysis on predictors of HIV risk behaviors of young adults in Tanzania, stratified by sex
+* Handled large datasets with over 38,000 records on population-based data
+* Built univariate and multivariate logistic regression models using SAS
+* Created summary tables, figures, text and reports for publication and bi-weekly presentation to data team professionals and senior leadership
+* Identified common themes affecting HIV risk behaviors overall and multiple factors differentially affecting men and women
+
+*The analysis of shared genetics between CAD and 25 traits, University of Liverpool, UK (10/2017-05/2018)*
+
+*	Identified traits that share genetic correlation with coronary artery disease (CAD) using online database LD Hub
+* Investigated relevant loci and potential causal genes for genetic overlap between CAD and other traits with various online databases including dbSNP, LD Link and GTEx Portal
+*	Found 25 traits associated with CAD, and 8 have SNPs in linkage disequilibrium with CAD SNPs
+* Presented findings to a group of students and the faculty board
+Integrative Genomics of Ageing Group, Institute of Ageing and Chronic Disease, University of Liverpool, UK
+
+*Build of CellAge, a data base related to cell senescence gene (03/2017-10/2017)*
+
+* Extensive literature reviews on previously reported cell senescence genes
+*	Conducted data cleaning for a dataset with 279 records 
+*	Worked with large spreadsheets, and conducted analysis with proficiency in SPSS and online database ENSEMBL
+*	Refined the manuscript of the paper “A Reassessment of Genes Modulating Aging in Mice Using Demographic Measurements of the Rate of Aging”, which was published by GENETICS in April, 2018
+*	Built 2 forest plots to visualize and summarize data according to the editor’s review
+*	Attended weekly lab meetings to report new findings to lab members
+
+*International Genetics Engineered Machine (iGEM) Competition, China (12/2015-10/2016)*
+
+
+*	Constructed a mutant library in E. coli which produced random mutations to facilitate subsequent research 
+*	Successfully constructed 4 basic plasmids and laid a foundation for project development, which led to silver prize in the competition
+*	Participated in team wiki page writing and poster narration
+
+
+**OTHER EXPERIENCES**  
+
+
+*Chinese Students and Scholars Association, CUMC (09/2019-now)*
+
+*	Organized activities to promote student health, including a hiking trip to Bear Mountain with 100+ participants
+
+*Head of the Planning Department, Bioscience Club (09/2015-06/2016)*
+
+*	Organized various activities to popularize biology-related knowledge
+
+*International Volunteer, Malaysia (06/2015-07/2015)*
+
+*	Volunteered in an environment protection project in Malaysia with 9 other people from 7 different countries
+
+*Member, FullHouse Charity Store (10/2014-06/2015)*
+
+*	Collected and sold students’ second-hand items for books and clothing sent to schools in poor mountainous areas in Northern western China
+
+
+**SKILLS**   
+
+
+*	Strong knowledge in R, SAS, SPSS and MySQL
+*	Proficiency in Microsoft Office (Access, Word, Excel, PowerPoint)
+
+
+
